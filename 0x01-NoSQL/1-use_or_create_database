@@ -1,2 +1,2 @@
-// Creates or uses the database my_db in MongoDB
-use my_db;
+// Creates or uses a database called my_db
+use my_db
